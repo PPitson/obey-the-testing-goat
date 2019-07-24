@@ -25,7 +25,7 @@ SECRET_KEY = 'gul_8mxri-fsa90&@_jdwsyfgsd-ae=j%py$xz^4!5x*vqum#1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
